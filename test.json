@@ -1,0 +1,25 @@
+{
+  "clientContext": {
+    "internal_school_admin_jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE3MDkyODkwOTgsImV4cCI6MTcwOTg5Mzg5OCwiaWRlbnRpdHlDb2RlIjoiaW50ZXJuYWwuc2Nob29sYWRtaW4uNTUwM2Q0YzdjYjM5NDViZDlkY2MyM2RmNjBjNTRmMzMtMTcwMTA3NDAzODY1NjQ1NDc2NWJiOGMxLjE4MDk4NzMyIiwidXRrIjo3MjQxMjd9.K2DjW8QaEmJMuIuVtxs6W8Md8_qTt66HvjfO7_IdmKdg2MhPsblkt_2UsH_XJYUXnlu_WmhDuggv0dYY2NoEhLnfz_q-og5yCAsqhcF4_FeV5X2NE_euGxrmJ9KjkieCEce9dNDfvXZnY7l1f3-XS-HGIqweStL4pInXiuRvB_Pcclhw3iZD0ZFnkN2gvzvqNCkDvFM6g_WULD_C-25mDt0qZCIC2gAx_XhX1IKwSKIWNFEmyJnOqQAya2eLWHIevDGzCRI2xmUyeOLjYHhJlDLgVRIIlx7DK7p23wQhQ95W-evrWcFYPeKQY9vbALIHNm3tcBDwas6tgHhkYXiNOA",
+    "current_user_jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE3MDkyODQwMTIsImV4cCI6MTcwOTg4ODgxMiwidW5saW1pdGVkIjpmYWxzZSwiaWRlbnRpdHlDb2RlIjoiYWRtaW4uY2ZhaWUtMTcwMTA3NDE1NjY1NjQ1NGVjOWQ1ODUzLjc0ODc0MTU2IiwidXRrIjo3MjE5NDB9.JA3IdAKsHw130P58jUXbSZfdB2FgT-y1zo_-QwcaWCEaDNkFD6dJaXu65fiOgxItdj-vlY1za55iveV8Xt4F9cZREeLDczSq67fX1ubCzO-6wuiufWkjZVuIvtPYmdL6EBq3QkjLLzKTFty4DJXUQ98iYA6-ZF4Is3N0lj02Fu3VKIO57QJoS5WT8foZrF6ufo6Lv4TyPBCc0Tkuhu8w_Lqv3-W5KdP9W7nLN3TSZz9wuVVFXzFvkjytizdrYFTd5tnEr2QaPeXYzgsjjuC5Lfd5duDeTHl0PVxO4grvuGzdcw1prc4o3G4Nhi3XkUYi2JvXWb9PX79VKlgNyu321Q",
+    "resource_type": "CONTACT_PROFILE",
+    "resource_id": 45349,
+    "context_is_dynamic_edms_file": false,
+    "id_configuration_dynamic_edms": null,
+    "id_dynamic_EDMS_file_value": null,
+    "dynamic_edms_context_event": null,
+    "dynamic_edms_file_resource_identifier": [],
+    "dynamic_edms_file_value_name": null,
+    "is_authorized_resource": false
+  },
+  "queryParameters": {
+    "allowWorkflowExecution": "true"
+  },
+  "payload": {
+    "civility": "M",
+    "firstname": "baba",
+    "lastname": "baba",
+    "email": "bo@linkpart.com",
+    "mainPhone": "+33893192255"
+  }
+}
